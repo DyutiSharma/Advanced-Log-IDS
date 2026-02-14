@@ -33,7 +33,7 @@ The goal of this project was to understand how security monitoring systems work 
 
 ---
 
-## 🧠 How It Works (Simple Explanation)
+## 🧠 How It Works 
 
 1. **Log Loading**  
    The program opens and reads the log file using C++ file streams.
