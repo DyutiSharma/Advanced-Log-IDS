@@ -1,0 +1,7 @@
+Failed login from 192.168.1.10
+Failed login from 192.168.1.10
+Failed login from 192.168.1.10
+User logged in successfully
+Access denied for user admin
+
+
